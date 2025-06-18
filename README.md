@@ -56,6 +56,14 @@ skin-disease-classification-app/
    cd src/frontend
    npm start
    ```
+## 🧠 Models Used
+
+The application uses two core models for skin disease classification and symptom-aware refinement:
+
+- [**image_model_1.pth**](https://drive.google.com/file/d/1H1HZU5hNq6LvjyVLoXm-2_yfygvO-h1S/view?usp=sharing) — *PyTorch Image Classification Model*
+- [**text_model.pth**](https://drive.google.com/file/d/1dHac-VhW215BtssW0myndJrVE27iWyz9/view?usp=sharing) — *PyTorch Symptoms Classification Model*
+
+> 📁 **Make sure both model files are located in the `models/` directory before starting the backend.**
 
 ## Dependencies
 - Python: Flask, PyTorch
