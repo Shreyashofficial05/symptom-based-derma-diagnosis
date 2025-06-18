@@ -67,7 +67,7 @@ The application uses two core models for skin disease classification and symptom
 
 ## Dependencies
 - Python: Flask, PyTorch
-- JavaScript: React, TypeScript, Axios
+- JavaScript: React, TypeScript
 
 ## Contribution Guidelines
 1. Fork the repository
