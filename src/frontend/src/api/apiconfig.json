@@ -1,0 +1,11 @@
+{
+  "CustomVisionAPI": {
+    "Url": "https://northeurope.api.cognitive.microsoft.com/customvision/v3.0/Prediction/8ec20014-f98f-4b38-b945-32ab78b706eb/classify/iterations/AdvancedTrained/url",
+    "PredictionKey": "03e926fb108b4101be2033081f5933f0"
+  },
+  "AzureStorageApi": {
+    "SasToken" : "sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacupitfx&se=2022-11-18T20:52:47Z&st=2021-11-18T12:52:47Z&spr=https&sig=I7HNT%2BkfTQIBw7aPrINPnhYe7pmZRLX%2FHXvhu79ZpWo%3D",
+    "ContainerName" : "imgcontainer",
+    "StorageAccountName" : "skinimagesstorage"
+  }
+}
